@@ -1,0 +1,24 @@
+{
+  "done": true,
+  "migration": {
+    "name": "mig_cuc15butrfea4ndao370",
+    "operations": [
+      {
+        "add_column": {
+          "table": "users",
+          "column": {
+            "name": "password",
+            "type": "text",
+            "comment": "",
+            "nullable": true
+          }
+        }
+      }
+    ]
+  },
+  "migrationType": "pgroll",
+  "name": "mig_cuc15butrfea4ndao370",
+  "parent": "mig_cuc1577lmd4pfs40orqg",
+  "schema": "public",
+  "startedAt": "2025-01-28T19:40:17.262713Z"
+}

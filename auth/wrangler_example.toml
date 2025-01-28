@@ -1,0 +1,10 @@
+name = "auth"
+main = "src/index.ts"
+compatibility_date = "2025-01-27"
+
+[vars]
+XATA_API_KEY = "key here"
+XATA_BRANCH = "branch here"
+REDIS_URL = "url here"
+REDIS_TOKEN = "token here"
+JWT_SECRET = "your-256-bit-secret"

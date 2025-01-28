@@ -1,0 +1,19 @@
+{
+  "done": true,
+  "migration": {
+    "name": "mig_cucithutrfea4ndao7ug",
+    "operations": [
+      {
+        "drop_column": {
+          "table": "users",
+          "column": "username"
+        }
+      }
+    ]
+  },
+  "migrationType": "pgroll",
+  "name": "mig_cucithutrfea4ndao7ug",
+  "parent": "mig_cucimuflmd4pfs40p0qg",
+  "schema": "public",
+  "startedAt": "2025-01-28T19:40:24.463135Z"
+}

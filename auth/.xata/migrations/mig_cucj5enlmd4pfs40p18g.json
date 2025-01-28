@@ -1,0 +1,19 @@
+{
+  "done": true,
+  "migration": {
+    "name": "mig_cucj5enlmd4pfs40p18g",
+    "operations": [
+      {
+        "drop_column": {
+          "table": "users",
+          "column": "test"
+        }
+      }
+    ]
+  },
+  "migrationType": "pgroll",
+  "name": "mig_cucj5enlmd4pfs40p18g",
+  "parent": "mig_cucj0hutrfea4ndao85g",
+  "schema": "public",
+  "startedAt": "2025-01-28T19:40:42.905165Z"
+}

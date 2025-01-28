@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Angel-Chavez-s-workspace-3vnerh.us-east-1.xata.sh/db/pumps",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "done": true,
+  "migration": {
+    "name": "mig_cucj0hutrfea4ndao85g",
+    "operations": [
+      {
+        "add_column": {
+          "table": "users",
+          "column": {
+            "name": "test",
+            "type": "text",
+            "comment": "",
+            "nullable": true
+          }
+        }
+      }
+    ]
+  },
+  "migrationType": "pgroll",
+  "name": "mig_cucj0hutrfea4ndao85g",
+  "parent": "mig_cucithutrfea4ndao7ug",
+  "schema": "public",
+  "startedAt": "2025-01-28T19:40:27.991381Z"
+}
